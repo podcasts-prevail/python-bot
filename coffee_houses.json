@@ -1,0 +1,45 @@
+{
+    "coffee_houses":[
+    {
+        "name": "Shavi",
+        "coordinates": [41.7049864623228, 44.785312341965415]
+    },
+    {
+        "name": "Groovy Roasters",
+        "coordinates": [41.71219618054471, 44.80162717301366]
+    },
+    {
+        "name": "Pulp",
+        "coordinates": [41.706266152682645, 44.781851480428706]
+    },
+    {
+        "name": "Eleven Window",
+        "coordinates": [41.695342535173985, 44.793633365068104]
+    },
+    {
+        "name": "Daily Grind Coffee & More",
+        "coordinates": [41.69323251602455, 44.80310860924614]
+    },
+    {
+        "name": "Erti Kava",
+        "coordinates": [41.69909001795331, 44.79592079760247]
+    },
+    {
+        "name": "They Said Books",
+        "coordinates": [41.70561312713541, 44.790746414794384]
+    },
+    {
+        "name": "Coffee Lab",
+        "coordinates": [41.72578301152205, 44.75531652089101]
+    },
+    {
+        "name": "Shukura",
+        "coordinates": [41.708531293154316, 44.76047516321927]
+    },
+    {
+        "name": "Stories",
+        "coordinates": [41.692259832213, 44.80170937173327]
+    }
+    ]
+}
+
